@@ -1,0 +1,5 @@
+---
+- name: Crear el grupo "{{ nombre_grupo }}" 
+  group:
+    name: "{{ nombre_grupo }}"
+    state: present 

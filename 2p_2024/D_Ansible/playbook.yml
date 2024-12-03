@@ -1,0 +1,6 @@
+---
+- name: Role
+  hosts: all
+  become: yes
+  roles:
+    - 2p_centurion  

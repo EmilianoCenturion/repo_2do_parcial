@@ -1,0 +1,12 @@
+#################################
+#
+# Listado de URL a validar
+#
+#
+# URL   Dominio  
+#################################
+www.google.com                      google
+https://es.wikipedia.org/           wikipedia
+https://httpbin.org/status/500      httpbin
+http://www.noexiste.com/            noexiste
+https://httpbin.org/status/200      httpbin

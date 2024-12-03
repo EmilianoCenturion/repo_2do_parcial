@@ -1,0 +1,10 @@
+[all:children]
+testing
+produccion
+
+[testing]
+localhost ansible_connection=local
+
+
+[produccion]
+localhost ansible_connection=local 
